@@ -1,0 +1,43 @@
+li{
+    display:inline;
+    font-size: 25px;
+    
+}
+h2{
+    font-family: Helvetica neue, roboto;
+}
+.name{
+    color: maroon;
+}
+.title{
+    font-size: large;
+    font-family: roboto;
+}
+.test{
+    font-size: larger;
+}
+
+body  {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+.name3{
+background-color: rgba(245, 245, 220, 0.658);
+height: 150px;
+width: 20%;
+  }
+table{
+    background-color: rgba(245, 245, 220, 0.658);
+}
+#name2{
+    padding: 1.2%;
+    padding-left: 10%;
+    text-align: center;
+}
+.center{
+   width: 30%;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 2%;
+
+}
